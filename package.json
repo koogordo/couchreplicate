@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pouchdb": "^7.1.1"
+    "pouchdb": "^7.3.1"
   }
 }
